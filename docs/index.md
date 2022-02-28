@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# SiGeD - 2021-2
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Seja bem-vindo à documentação do projeto SiGeD da turma de EPS de 2021-2.
 
-## Commands
+## Sobre o SiGeD
+O **SiGeD - Sistema de Gerenciamento de Demanda** é um sistema de controle de demandas para melhor atendimento dos clientes da DPSS (Divisão de Proteção à Saúde do Servidor) da Polícia Civíl do Estado de Goiás.  
+  
+Nesse sistema será possível a visualização das demandas de cada cliente, tendo assim o seu prontuário completo, podendo adicionar novas demandas a ele.  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## O projeto  
+O projeto SiGeD foi iniciado no semestre de 2020-2 e sua documentação original pode ser encontrada [neste link](https://fga-eps-mds.github.io/2020-2-SiGeD/).  
 
-## Project layout
+Para esse semestre, iremos corrigir eventuais problemas e implementar novas funcionalidades junto aos membros responsáveis da Polícia Civíl do Estado de Goiás.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- - -
