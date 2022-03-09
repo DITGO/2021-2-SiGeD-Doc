@@ -1,6 +1,6 @@
 ---
-name: issue
-about: Criação de uma issue customizada.
+name: issue template
+about: Template utilizado na criação de issues.
 title: nome_descritivo_da_issue
 labels: ''
 assignees: ''
