@@ -30,7 +30,7 @@ def consumer(file_dest, release_version):
     res = requests.get(base_url+file_dest+'&metricKeys='+metrics_str+'&ps=500')
     m = res.json()
     # print(metrics)
-    f = open(f'./analytics-raw-data/{file_name}-{file_dest}-{today.strftime("%m-%d-%Y-%H:%M:%S")}-{release_version}.json', 'w')
+    f = open(f'analytics-raw-data/{file_name}-{file_dest}-{today.strftime("%m-%d-%Y-%H:%M:%S")}-{release_version}.json', 'w')
     f.write(json.dumps(m))
     f.close()
 
