@@ -1,15 +1,26 @@
-site_name: SiGeD - Documentação
+site_name: 2021.2 - SiGeD
 
-repo_name: '2021-2-SIGeD-Doc'
-repo_url: 'https://github.com/fga-eps-mds/2021-2-SIGeD-Doc'
+repo_name: '2021-2-SiGeD-Doc'
+repo_url: 'https://github.com/fga-eps-mds/2021-2-SiGeD-Doc'
 
 lang:
   - pt
 
+extra_javascript:
+  - assets/js/extra.js
+
+extra_css:
+  - assets/css/docs.css
+
 nav:
-  - Sobre: index.md
+  - Home: index.md
+  - Documentação:
+    - Metodologia: metodologia.md
 
 theme:
   name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.sections
   icon:
     repo: fontawesome/brands/github
