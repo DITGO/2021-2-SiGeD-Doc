@@ -10,6 +10,6 @@
 
 <p style="text-align:justify">&emsp;&emsp;Também foi feito um pequeno formulário no início do semestre com os conhecimentos gerais dos membros da equipe de MDS para que fossem formulados treinamentos e acompanhamento de acordo com a necessidade.</p>
 
-<!-- inserir resultados -->
+<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQPPoI3caNgoKbrpXCgKvxoqXqJRTh_8lsjvL7KVpmEs5CNF9Ex0HTIUD-ltUAztzPExpuHfoSEL581/pubhtml"></iframe>
 
 <p style="text-align:justify">&emsp;&emsp;O intuito é que no fim do semestre o formulário seja respondido novamente para evidenciar a evolução dos membros ao longo do semestre.</p>
