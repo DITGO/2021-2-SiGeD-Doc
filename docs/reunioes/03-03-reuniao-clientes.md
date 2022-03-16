@@ -11,6 +11,7 @@
 **Duração**: 1 hora
 
 **Participantes:**
+
 * Murilo Loiola
 * Rafael Ribeiro
 * Davi Lima

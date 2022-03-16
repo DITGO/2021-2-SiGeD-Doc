@@ -1,3 +1,5 @@
+<h1 style='text-align: center;'>Metodologia</h1>
+
 ## Introdução
  
 <p style="text-align:justify">&emsp;&emsp;Este documento procura descrever a metodologia utilizada no processo de desenvolvimento desse projeto. O grupo decidiu não focar em apenas um tipo de metodologia, adotando uma metodologia híbrida que inclui os aspectos de diversas metodologias que mais se adequam ao contexto da equipe e do projeto. A seguir serão descritos as metodologias que influenciaram o grupo e quais métodos foram adotados para o nosso contexto. Devido a pandemia, as práticas que viriam a ser realizadas de forma presencial serão feitas de forma remota, utilizando ferramentas que atendem a necessidade do grupo e do projeto.</p>

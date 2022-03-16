@@ -11,6 +11,7 @@
 **Duração**: 2 horas e 5 minutos
 
 **Participantes:**
+
 * Gabriel Hussein 
 * Murilo Loiola
 * Rafael Ribeiro

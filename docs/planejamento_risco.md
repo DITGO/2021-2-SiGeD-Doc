@@ -1,9 +1,11 @@
 
-# Introdução 
+<h1 style="text-align: center">Gerenciamento de Riscos</h1>
 
-A função do Plano de Gerenciamento de Riscos é definir como serão conduzidas as atividades de gestão de risco, ou seja, informar quais serão as medidas adotadas para lidar com as possíveis ameaças ou oportunidades.
+## Introdução 
 
-Conforme o PMBOK, existem sete processos que são essenciais para um bom gerenciamento de riscos. São eles:
+<p style="text-align:justify">&emsp;&emsp;A função do Plano de Gerenciamento de Riscos é definir como serão conduzidas as atividades de gestão de risco, ou seja, informar quais serão as medidas adotadas para lidar com as possíveis ameaças ou oportunidades.</p>
+
+<p style="text-align:justify">&emsp;&emsp;Conforme o PMBOK, existem sete processos que são essenciais para um bom gerenciamento de riscos. São eles:</p>
 
 - Planejar o gerenciamento dos riscos;
 - Identificar os riscos;
@@ -25,12 +27,12 @@ Conforme o PMBOK, existem sete processos que são essenciais para um bom gerenci
 
 ## Identificação de riscos
 
-A identificação de riscos se refere ao mapeamento dos riscos individuais e gerais do projeto e suas características. O principal benefício desse é trazer informações para que a equipe consiga responder de forma adequada a esses riscos, independentemente se eles forem ameaças ou oportunidades.  
+<p style="text-align:justify">&emsp;&emsp;A identificação de riscos se refere ao mapeamento dos riscos individuais e gerais do projeto e suas características. O principal benefício desse é trazer informações para que a equipe consiga responder de forma adequada a esses riscos, independentemente se eles forem ameaças ou oportunidades.</p>
 
 - Os riscos com efeito negativo são as ameaças ao projeto.
 - Os riscos com efeito positivo são as oportunidades do projeto.
 
-Os riscos serão identificados durante os eventos Scrum, reuniões de planejamento e pareamentos.  
+<p style="text-align:justify">&emsp;&emsp;Os riscos serão identificados durante os eventos Scrum, reuniões de planejamento e pareamentos.</p>
 
 
 ### Riscos Negativos
@@ -56,8 +58,8 @@ Os riscos serão identificados durante os eventos Scrum, reuniões de planejamen
 
 
 ## Análise Qualitativa de Riscos
-A análise qualitativa dos riscos consiste em priorizar os riscos individuais identificados, considerando principalmente sua probabilidade de ocorrência e seus impactos nos objetivos do projeto.  
-A probabilidade será categorizada conforme a tabela abaixo.
+<p style="text-align:justify">&emsp;&emsp;A análise qualitativa dos riscos consiste em priorizar os riscos individuais identificados, considerando principalmente sua probabilidade de ocorrência e seus impactos nos objetivos do projeto. </p> 
+<p style="text-align:justify">&emsp;&emsp;A probabilidade será categorizada conforme a tabela abaixo.</p>
 
 ### Probabilidade 
 
@@ -70,7 +72,8 @@ A probabilidade será categorizada conforme a tabela abaixo.
 | Muita Alta | 80% < P <= 100% | 5 |
 
 ### Impacto
-O impacto varia de acordo como os riscos afetam o projeto.
+
+<p style="text-align:justify">&emsp;&emsp;O impacto varia de acordo como os riscos afetam o projeto.</p>
 
 | Impacto - (I) | Descrição | Peso |
 | -------- | -------- | -------- |
@@ -103,7 +106,7 @@ O impacto varia de acordo como os riscos afetam o projeto.
 | RP3 | Baixa | Moderada | Baixa |
 
 ## Planejando Respostas aos Riscos
-Esta estapa consiste em desenvolver alternativas, selecionar estratégias e acordar ações para lidar com a exposição geral aos riscos e tratar os riscos individuais. 
+<p style="text-align:justify">&emsp;&emsp;Esta estapa consiste em desenvolver alternativas, selecionar estratégias e acordar ações para lidar com a exposição geral aos riscos e tratar os riscos individuais.</p>
 
 |  Risco| Estratégia | Resposta |
 | -------- | -------- | -------- |
@@ -121,7 +124,7 @@ Esta estapa consiste em desenvolver alternativas, selecionar estratégias e acor
 
 ## Implementando respostas de risco
 
-A equipe estará monitorando os riscos apresentados durante os eventos SCRUM. Se caso algum deles ou outro inesperado ocorra, será implementada a resposta ao risco.
+<p style="text-align:justify">&emsp;&emsp;A equipe estará monitorando os riscos apresentados durante os eventos SCRUM. Se caso algum deles ou outro inesperado ocorra, será implementada a resposta ao risco.</p>
 
 ## Monitoramento de Riscos
 

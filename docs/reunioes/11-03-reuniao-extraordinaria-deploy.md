@@ -1,32 +1,24 @@
-<h1 style="text-align: center">Reunião extraordinária de deploy com clientes</h1>
+<h1 style="text-align: center">Reunião extraordinária para consertar deploy</h1>
 
 ## Informações da reunião
 
 **Local:** Teams
 
-**Data:** 11/03/2022
+**Data:** 10/03/2022
 
 **Duração estipulada**: 1 hora
 
-**Duração**: 1 hora e 30 minutos
+**Duração**: 1 hora
 
 **Participantes:**
+
 * Murilo Loiola
-* Rafael Ribeiro
-* Nícalo Ribeiro
-* Davi Lima
-* Endy Sally
-* Maciel Júnior
-* Carlos Eduardo
-* Marcelino de Paula (cliente)
 * Dirlei (cliente)
 
 ## Pauta da Reunião
 
-- Realização do Sequenciador e Canvas MVP, com as funcionalidades e defeitos definidos.
+- Corrigir erros identificados no deploy na reunião do dia 10/03.
 
 ## Ata da Reunião
 
-- Foi feita uma revalidação da etapa de Revisão Técnica, de Negócio e UX.
-- Com o deploy corrigido, as correções anotadas anteriormente foram revalidadas.
-- Foi executado o Sequenciador.
+- As falhas identificadas no deploy foram corrigidas.

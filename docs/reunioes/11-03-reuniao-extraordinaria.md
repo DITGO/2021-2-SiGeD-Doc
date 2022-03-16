@@ -4,26 +4,30 @@
 
 **Local:** Teams
 
-**Data:** 10/03/2022
+**Data:** 11/03/2022
 
 **Duração estipulada**: 1 hora
 
-**Duração**: 1 hora
+**Duração**: 1 hora e 30 minutos
 
 **Participantes:**
+
 * Murilo Loiola
 * Rafael Ribeiro
 * Nícalo Ribeiro
 * Davi Lima
+* Endy Sally
+* Maciel Júnior
+* Carlos Eduardo
 * Marcelino de Paula (cliente)
 * Dirlei (cliente)
 
 ## Pauta da Reunião
 
-- Corrigir pauta proposta para reunião do dia 09/03
+- Realização do Sequenciador e Canvas MVP, com as funcionalidades e defeitos definidos.
 
 ## Ata da Reunião
 
-- Foi identificada uma falha no deploy, impedindo o usuário de ter uma visão completa das funcionalidades e defeitos presentes no sistema.
-- Por causa disso, a Lean Inception precisou ser adiada novamente.
-- Foram marcadas duas reuniões separadas para lidarmos com essa situação.
+- Foi feita uma revalidação da etapa de Revisão Técnica, de Negócio e UX.
+- Com o deploy corrigido, as correções anotadas anteriormente foram revalidadas.
+- Foi executado o Sequenciador.

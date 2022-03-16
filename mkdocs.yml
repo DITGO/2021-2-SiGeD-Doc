@@ -20,10 +20,24 @@ nav:
     - Gerenciamento de Equipe: equipe.md
     - Planejamento de Custo: planejamento_custo.md
     - Gerenciamento de Riscos: planejamento_risco.md
-  - Lean Inception: visao_produto.md
-  - Comunidade: contribuicao.md
+    - Gerência de Configuração:
+      - Políticas de contribuição: contribuicao.md
+      - Pipelines de DevOps: pipelines.md
+  - Lean Inception: lean_inception.md
   - Reuniões:
-    - Reunião 09-02: 09-02-config-eps.md
+    - Reunião 09/02 (Configuração): reunioes/09-02-config-eps.md
+    - Reunião 09/02 (Treinamento): reunioes/09-02-treinamento.md
+    - Reunião 16/02: reunioes/16-02-reuniao-cliente.md
+    - Reunião 24/02: reunioes/24-02-reuniao-cliente.md
+    - Reunião 02/03: reunioes/02-03-reuniao-sonarcloud.md
+    - Reunião 03/03 (Usuários): reunioes/03-03-reuniao-clientes.md
+    - Reunião 03/03 (Serviço Cargos): reunioes/03-03-reuniao-cargos.md
+    - Reunião 04/03: reunioes/04-03-reuniao-extraordinaria.md
+    - Reunião 06/03: reunioes/06-03-reuniao-pareamentos.md
+    - Reunião 09/03: reunioes/09-03-reuniao-clientes.md
+    - Reunião 10/03: reunioes/10-03-reuniao-extraordinaria.md
+    - Reunião 11/03 (Deploy): reunioes/11-03-reuniao-extraordinaria-deploy.md
+    - Reunião 11/03 (Usuários): reunioes/11-03-reuniao-extraordinaria.md
 
 theme:
   name: 'material'

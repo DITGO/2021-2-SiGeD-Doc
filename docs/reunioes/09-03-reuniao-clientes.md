@@ -11,8 +11,11 @@
 **Duração**: 1 hora
 
 **Participantes:**
+
 * Murilo Loiola
 * Rafael Ribeiro
+* Davi Lima
+* Endy Sally
 * Marcelino de Paula (cliente)
 * Dirlei (cliente)
 
