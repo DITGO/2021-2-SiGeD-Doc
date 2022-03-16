@@ -22,6 +22,8 @@ nav:
     - Gerenciamento de Riscos: planejamento_risco.md
   - Lean Inception: visao_produto.md
   - Comunidade: contribuicao.md
+  - Reuniões:
+    - Reunião 09-02: 09-02-config-eps.md
 
 theme:
   name: 'material'
