@@ -37,24 +37,16 @@
 
 ### Riscos Negativos
 
-| Causa	| Risco	| Descrição do risco	| Impacto |
-| -------- | -------- | -------- | -------- |
-| Inexperiência do time | RN1 | Dificuldades com as tecnologias utilizadas | Baixa produtividade, atraso nas entregas e sobrecarga de membros. |
-| Problemas de conexão | RN2 | Problemas com a internet, energia e afins | Atraso nas entregas ou sobrecarga de outros membros |
-| Problemas de hardware | RN3 | Problemas no hardware para rodar os ambientes | Atraso nas entregas ou sobrecarga de outros membros |
-| Escopo mal definido | RN4 | Visão geral do produto mal definida | Retrabalho |
-| Problemas pessoais | RN5| Problemas pessoais dos membros da equipe  | Mudança no Planejamento, atrasos, sobrecarga. |
-| Divergência de horários entre os membros | RN6 | Membro do time não conseguir participar das reuniões com os P.O's ou reuniões do time | Falta de entendimento do membro do time acerca da situação do projeto |
-| Desistência de membros da equipe | RN7 | Membro do time desistir do projeto durante o desenvolvimento | Atraso nas entregas, sobrecarga de outros membros e impacto no escopo do projeto |
-| Baixa qualidade do produto | RN8 | Pruduto com defeitos de desenvolvimento  | Não atender às expectavivas do cliente  |
+<iframe width="87%" height="440px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRUFTNzPVG8xU8AehidfzV5ZLNZOI7GZIkVoRsacNz53SDgmWRGqYlCcIgvq6uac63gDTKcS-6hWjBS/pubhtml?gid=0&single=true"></iframe>
+
+<a href="https://docs.google.com/spreadsheets/d/15yCveZC6Lm95ABTRu3O1U5OSF_T40jJZEyciN9B_3wM/edit?usp=sharing">Visualização da Planilha</a>
 
 
 ### Riscos Positivos
-| Causa	| Risco	| Descrição	| Impacto |
-| -------- | -------- | -------- | -------- |
-| Motivação com o projeto | RP1 | Interesse da equipe em evoluir e continuar no projeto | Continuidade do projeto e aumento de produtividade|
-| Produtividade | RP2 | Entregas de acordo com o previsto | Segurança para o cliente de que suas expectativas serão atendidas |
-| Entregas antes do prazo | RP3 | Entregas antes do cronograma estabelecido | Aumento na qualidade do projeto e possível aumento do escopo |
+
+<iframe width="87%" height="240px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk2HKPKxHesRLGtRfk6m7c6rIHjIvAy6b4Z5DJYhpqd5FpGT-WrBkYVjOJNWytgV6dQBaCkXo4uTM3/pubhtml?gid=0&single=true"></iframe>
+
+<a href="https://docs.google.com/spreadsheets/d/1fhHCK5f-q_PWBIwM4Jkr8NguqGM8H1OIej_YyGSe21w/edit?usp=sharing">Visualização da Planilha</a>
 
 
 ## Análise Qualitativa de Riscos
@@ -108,19 +100,10 @@
 ## Planejando Respostas aos Riscos
 <p style="text-align:justify">&emsp;&emsp;Esta estapa consiste em desenvolver alternativas, selecionar estratégias e acordar ações para lidar com a exposição geral aos riscos e tratar os riscos individuais.</p>
 
-|  Risco| Estratégia | Resposta |
-| -------- | -------- | -------- |
-| RN1 | Prevenir | Indentificar o nível de conhecimento do time e fazer os treinamentos necessários   |
-| RN2 | Consertar falhas | Transferir a tarefa para outro membro do time ou adaptação para sua execução |
-| RN3 | Consertar falhas | Possuir alternativas para quando há problemas no hardware de algum dos membros |
-| RN4 | Prevenir | Durante os encontros do time, identificar eventuais no escopo o quanto antes|
-| RN5 | Gerenciar | É um risco em que as ações de prevenção não são cabíveis à equipe, mas é possível fazer o gerenciamento conformer andamento do projeto |
-| RN6 | Mitigar | Tentar encaixar horários com o maior número de membros da equipe disponível |
-| RN7 | Consertar falhas | Não há muito como prever mas, ao acontecer, realocar tarefas entre os membros da equipe, evitando sobrecarregá-los |
-| RN8 | Prevenir | Utilizar ferramentas de testes automatizados para verificar a qualidade do código |
-| RP1 | Aceitar | Incentiva os membros da equipe continuamente para que continuem motivados |
-| RP2 | Aceitar | Acompanhar métricas de produtividade da equipe e tomar ações no decorrer do planejamento das sprints |
-| RP3 | Aceitar | Propor aumento de escopo, respeitando prazos e limitações da equipe |
+
+<iframe width="90%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDTswYPk2ijOxkFORl7SUMj_mhbYRlW_uhT1ZRbOnmB9nVFE8Io-hyIFoE0uEzV86Hk7czlb-LbLXv/pubhtml?gid=0&single=true"></iframe>
+
+<a href="https://docs.google.com/spreadsheets/d/1tgnwoz9KkRKnHRbIA12kytIEIc8JGH07TdFXYBHjS_0/edit?usp=sharing">Visualização da Planilha</a>
 
 ## Implementando respostas de risco
 
@@ -128,6 +111,9 @@
 
 ## Monitoramento de Riscos
 
+<iframe width="87%" height="350px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpElv6IQjzpyQRpHrL83vZxhV0vQSn1Uy2c_x7CMP7k_XyQ2hTZCjaApawTy3bDdsMzcNYGqfN8J5G/pubhtml?gid=0&single=true"></iframe>
+
+<a href="https://docs.google.com/spreadsheets/d/1dAtU35FemuUXYml6hwE1wCcqHi4GWn7f5uoqrUb7-KQ/edit?usp=sharing">Visualização da Planilha</a>
 
 | Risco | Monitoramento 
 | -------- | -------- |
@@ -156,3 +142,4 @@ EUAX. Gerenciamento de Riscos em Projetos: aprenda a lidar com as incertezas na 
 | 0.1    | 14/03/2022 | Criação do documento  | Nícalo |
 | 0.2    | 15/03/2022 | Desenvolvimento do documento | Nícalo, Murilo, Gabriel e Rafael |
 | 1.0    | 15/03/2022 | Finalização da primeira versão e revisão | Nícalo, Murilo, Gabriel e Rafael |
+| 2.0    | 18/03/2022 | Mudança das tabelas fixas para dinâmicas | Rafael |
