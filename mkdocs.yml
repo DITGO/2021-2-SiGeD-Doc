@@ -23,7 +23,6 @@ nav:
     - Gerência de Configuração:
       - Políticas de contribuição: contribuicao.md
       - Pipelines de DevOps: pipelines.md
-  - Lean Inception: lean_inception.md
   - Reuniões:
     - Reunião 09/02 (Configuração): reunioes/09-02-config-eps.md
     - Reunião 09/02 (Treinamento): reunioes/09-02-treinamento.md
