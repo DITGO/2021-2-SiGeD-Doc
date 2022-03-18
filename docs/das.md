@@ -77,6 +77,10 @@ Restrições:
 
 ![Diagrama de pacotes-2](assets/img/diagrama_pacotes_back.png)
 
+## Referências
+
+Equipe de GCES do SiGed 2020-2 - Documento de arquitetura Disponível em: https://fga-eps-mds.github.io/2020-2-SiGeD/architecturedocument/. Acesso em: 15 mar. 2022.
+
 ## Histórico
 
 | Versão | Data       | Modificação                    | Autor(es) |
@@ -84,3 +88,4 @@ Restrições:
 | 0.1    | 14/03/2022 | Criação do documento  | Murilo |
 | 0.2    | 15/03/2022 | Adição do serviço de cargos | Murilo |
 | 1.0    | 15/03/2022 | Finalização da primeira versão e revisão | Murilo |
+| 2.0    | 18/03/2022 | Adição das referencias | Rafael |

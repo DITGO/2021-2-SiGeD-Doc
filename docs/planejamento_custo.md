@@ -51,3 +51,4 @@
 | 0.1    | 14/03/2022 | Criação do documento  | Murilo |
 | 0.2    | 15/03/2022 | Desenvolvimento do documento | Murilo |
 | 1.0    | 15/03/2022 | Finalização da primeira versão e revisão | Nícalo, Murilo e Rafael |
+| 2.0    | 18/03/2022 | Mudança no cálculo do custo de pessoal | Rafael |
