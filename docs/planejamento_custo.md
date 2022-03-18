@@ -2,7 +2,7 @@
 
 <p style="text-align:justify">&emsp;&emsp;Para gerar um estimativa de custo, foi levado em consideração todos os aspectos do projeto que geram gastos direta ou indiretamente. São esses gastos: custo de pessoal, custo de equipamento, custo de infraestrutura e custos adicionais (energia elétrica e internet).</p>
 
-<p style="text-align:justify">&emsp;&emsp;Para a estimativa, foi considerado um total de 9 sprints semanais, começando no dia 26 de fevereiro e terminando no dia 30 de abril.</p>
+<p style="text-align:justify">&emsp;&emsp;Para a estimativa, foi considerado um total de 15 sprints semanais, começando no dia 26 de fevereiro e terminando no dia 30 de abril.</p>
 
 <iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNj9JtHHKWZlqpceKlAqxQx3Yd5zYE1czHST0eZfmOZPkOHaj5pRt_nskqU5PW1MuizHGORWR_3FL7/pubhtml"></iframe>
 
@@ -10,9 +10,9 @@
 
 ## Custo de pessoal
 
-<p style="text-align:justify">&emsp;&emsp;O projeto será desenvolvido no decorrer de 9 sprints com 10 horas semanais dedicadas por cada estudante. Levando em consideração que o custo médio anual de um estudante em universidades federais do Brasil é de R$38.805,00 (retirado de <a href="https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html">O Globo - Raio-X do custo...</a>), o cálculo do custo/hora de cada desenvolvedor do projeto é o seguinte:</p>
+<p style="text-align:justify">&emsp;&emsp;O projeto será desenvolvido no decorrer de 15 sprints com 8 horas semanais dedicadas por cada estudante. Levando em consideração que o custo médio mensal de um estagiário na área de desenvolvimento de software que é de R$1.341,00 (retirado de <a href="https://www.vagas.com.br/cargo/estagiario-em-desenvolvimento-de-software">O Globo - Raio-X do custo...</a>), o cálculo do custo/hora de cada desenvolvedor do projeto é o seguinte:</p>
 
->```Custo anual por estudante/365/24``` = ```R$ 4,43 / hora```
+>```Quantidade de integrantes``` X ```Quantidade de horas semanais``` X ```Salário médio``` / ```Jornada de estágio de 30 horas semanais``` = ```R$ 4.470 / semana```
 
 ## Custo de equipamento
 
