@@ -20,6 +20,7 @@ nav:
     - Gerenciamento de Equipe: equipe.md
     - Planejamento de Custo: planejamento_custo.md
     - Gerenciamento de Riscos: planejamento_risco.md
+    - Guia de estilo: guiadeestilo.md
     - Gerência de Configuração:
       - Políticas de contribuição: contribuicao.md
       - Pipelines de DevOps: pipelines.md
