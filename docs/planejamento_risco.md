@@ -115,19 +115,6 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1dAtU35FemuUXYml6hwE1wCcqHi4GWn7f5uoqrUb7-KQ/edit?usp=sharing">Visualização da Planilha</a>
 
-| Risco | Monitoramento 
-| -------- | -------- |
-| R1 | Através do pareamento e das reuniões diárias |
-| R2 | Através das reuniões diárias e canais de comunicação da equipe  |
-| R4 | Atráves das reuniões com os clientes e pelo roadmap |
-| RN4 | Através das reuniões diárias e canais de comunicação da equipe |
-| RN5 | Através dos canais de comunicação da equipe |
-| RN6 | Através das reuniões diárias e canais de comunicação da equipe |
-| RN7 | Atráves do sonarcloud e dos testes automatizados |
-| RP1 | Através das reuniões diárias e canais de comunicação da equipe |
-| RP2 | Através da metodologia ágil, terá acompanhamento constante da produtividade da equipe |
-| RP3 | Através do cronograma do projeto |
-
 - - -
 
 ## Referências
@@ -143,3 +130,4 @@ EUAX. Gerenciamento de Riscos em Projetos: aprenda a lidar com as incertezas na 
 | 0.2    | 15/03/2022 | Desenvolvimento do documento | Nícalo, Murilo, Gabriel e Rafael |
 | 1.0    | 15/03/2022 | Finalização da primeira versão e revisão | Nícalo, Murilo, Gabriel e Rafael |
 | 2.0    | 18/03/2022 | Mudança das tabelas fixas para dinâmicas | Rafael |
+| 2.1    | 18/03/2022 | Ajustes no layout | Nícalo |
