@@ -61,6 +61,13 @@
  
 <p style="text-align:justify">&emsp;Se o CPI for maior que 1, isso indica que o projeto está abaixo do orçamento. Se o CPI for maior que 1, isso indica que o projeto está acima do orçado.&emsp;</p>
 
+## Planilha de Custos EVM
+
+<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyjxrem5TBcxrh-v8cYk3oQbuBLp1YhXk1WUkvUttaBgKGyPLVdNxuWDWPa6ZObnU--Fs487DJKI1F/pubhtml"></iframe>
+
+<a href="https://docs.google.com/spreadsheets/d/1Wh7rhrNIGB3roFZR-WAm8QtHJH6Pl0CGg4W7EZgZmbE/edit?usp=sharing">Visualização da Planilha</a>
+
+
 ## Referências
 
 Earned Value Management: The Basics Disponível em: https://www.ecosys.net/knowledge/earned-value-management-basics/. Acesso em: 30 mar. 2022.
@@ -70,4 +77,5 @@ Earned Value Management: The Basics Disponível em: https://www.ecosys.net/knowl
 | Versão | Data       | Modificação                    | Autor(es) |
 | ------ | ---------- | ------------------------------ | ----- |
 | 0.1    | 29/03/2022 | Criação do documento  | Rafael Ribeiro |
-| 0.2    | 30/03/2022 | Desenvolvimento do documento | Rafael |
+| 0.2    | 30/03/2022 | Desenvolvimento do documento | Rafael Ribeiro |
+| 1.0    | 06/04/2022 | Inclusão do Documento EVM | Rafael Ribeiro |
