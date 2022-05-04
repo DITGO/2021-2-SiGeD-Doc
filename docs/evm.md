@@ -79,3 +79,4 @@ Earned Value Management: The Basics Disponível em: https://www.ecosys.net/knowl
 | 0.1    | 29/03/2022 | Criação do documento  | Rafael Ribeiro |
 | 0.2    | 30/03/2022 | Desenvolvimento do documento | Rafael Ribeiro |
 | 1.0    | 06/04/2022 | Inclusão do Documento EVM | Rafael Ribeiro |
+| 1.1    | 03/05/2022 | Atualização da planilha EVM | Rafael Ribeiro |
