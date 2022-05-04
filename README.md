@@ -31,7 +31,7 @@ GPL-3.0 License
 
 ## Documentação
 
-A documentação do projeto pode ser acessada pelo nosso site em: [Documentação](https://fga-eps-mds.github.io/2021-2-SiGeD-Doc/).
+A documentação do projeto pode ser acessada no nosso site em: [Documentação](https://fga-eps-mds.github.io/2021-2-SiGeD-Doc/).
 
 
 ## Colaboradores
