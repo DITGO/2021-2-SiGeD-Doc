@@ -14,6 +14,10 @@ Execute o seguinte comando para baixar todos os arquivos do projeto:
 git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Frontend && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Clients && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Users && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Demands && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Sectors && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Cargos
 ```
 
+## Dependências
+
+Como o ambiente será executado dentro de um container `docker`, é necessário que se siga os passos de instalação de acordo com o sistema operacional que se utiliza. O guia de instalação do docker se encontra em [aqui](https://docs.docker.com/engine/install/ubuntu/). Obs.: note que se você estiver no Linux, pode ser necessário que se siga os passos _pós instalação_ descritos [aqui](https://docs.docker.com/engine/install/linux-postinstall/).
+
 ## Subindo a aplicação
 
 Para subir a aplicação, entre na pasta onde os arquivos foram baixados e crie um arquivo chamado `initialize_containers.sh`. Abra este arquivo e cole o seguinte script:
