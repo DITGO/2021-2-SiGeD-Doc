@@ -23,6 +23,7 @@ nav:
     - Gerenciamento de Riscos: planejamento_risco.md
     - Guia de estilo: guiadeestilo.md
     - Gerência de Configuração:
+      - Configurar e subir o ambiente localmente: subindo_projeto.md
       - Políticas de contribuição: contribuicao.md
       - Pipelines de DevOps: pipelines.md
   - Reuniões:
