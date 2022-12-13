@@ -17,7 +17,7 @@ mkdir siged && cd siged
 Execute o seguinte comando para baixar todos os arquivos do projeto provenientes do _GitHub_:
 
 ```bash
-git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Frontend && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Clients && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Users && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Demands && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Sectors && git clone https://github.com/fga-eps-mds/2021-2-SiGeD-Cargos
+git clone https://github.com/DITGO/2021-2-SiGeD-Frontend && git clone https://github.com/DITGO/2021-2-SiGeD-Clients && git clone https://github.com/DITGO/2021-2-SiGeD-Users && git clone https://github.com/DITGO/2021-2-SiGeD-Demands && git clone https://github.com/DITGO/2021-2-SiGeD-Sectors && git clone https://github.com/DITGO/2021-2-SiGeD-Cargos
 ```
 
 ## Dependências
