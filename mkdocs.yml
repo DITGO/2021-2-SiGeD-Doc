@@ -24,6 +24,7 @@ nav:
     - Guia de estilo: guiadeestilo.md
     - Gerência de Configuração:
       - Configurar e subir o ambiente localmente: subindo_projeto.md
+      - Entrando na aplicação: entrando_no_ambiente.md
       - Políticas de contribuição: contribuicao.md
       - Pipelines de DevOps: pipelines.md
   - Reuniões:
