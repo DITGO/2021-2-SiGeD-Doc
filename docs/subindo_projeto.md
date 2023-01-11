@@ -17,7 +17,7 @@ mkdir siged && cd siged
 Execute o seguinte comando para baixar todos os arquivos do projeto provenientes do _GitHub_:
 
 ```bash
-git clone https://github.com/DITGO/2021-2-SiGeD-Frontend && git clone https://github.com/DITGO/2021-2-SiGeD-Clients && git clone https://github.com/DITGO/2021-2-SiGeD-Users && git clone https://github.com/DITGO/2021-2-SiGeD-Demands && git clone https://github.com/DITGO/2021-2-SiGeD-Sectors && git clone https://github.com/DITGO/2021-2-SiGeD-Cargos
+git clone https://github.com/DITGO/2021-2-SiGeD-Frontend && git clone https://github.com/DITGO/2021-2-SiGeD-Clients && git clone https://github.com/DITGO/2021-2-SiGeD-Users && git clone https://github.com/DITGO/2021-2-SiGeD-Demands && git clone https://github.com/DITGO/2021-2-SiGeD-Sectors && git clone https://github.com/DITGO/2021-2-SiGeD-Cargos && git clone https://github.com/DITGO/2021-2-SiGeD-Patrimonio
 ```
 
 ## Dependências
@@ -30,7 +30,7 @@ Dentro da pasta `siged` onde estão as pastas da aplicação, rode o seguinte _s
 
 ```sh
 docker network create siged_backend
-for dir in 2021-2-SiGeD-Cargos 2021-2-SiGeD-Demands 2021-2-SiGeD-Sectors 2021-2-SiGeD-Clients 2021-2-SiGeD-Frontend 2021-2-SiGeD-Users
+for dir in 2021-2-SiGeD-Cargos 2021-2-SiGeD-Demands 2021-2-SiGeD-Sectors 2021-2-SiGeD-Clients 2021-2-SiGeD-Frontend 2021-2-SiGeD-Users 2021-2-SiGeD-Patrimonio
 do
   docker-compose --f ./${dir}/docker-compose.yml up --detach
 done
@@ -48,7 +48,7 @@ bash initialize_containers.sh
 Dentro da pasta onde estão as pastas da aplicação, para derrubar a aplicação rode o seguinte _script_:
 
 ```sh
-for dir in 2021-2-SiGeD-Cargos 2021-2-SiGeD-Demands 2021-2-SiGeD-Sectors 2021-2-SiGeD-Clients 2021-2-SiGeD-Frontend 2021-2-SiGeD-Users
+for dir in 2021-2-SiGeD-Cargos 2021-2-SiGeD-Demands 2021-2-SiGeD-Sectors 2021-2-SiGeD-Clients 2021-2-SiGeD-Frontend 2021-2-SiGeD-Users 2021-2-SiGeD-Patrimonio
 do
   docker-compose --f ./${dir}/docker-compose.yml down
 done
@@ -62,3 +62,9 @@ Utilizando o `bash`, para executar este _script_, rode o seguinte comando:
 ```bash
 bash stop_containers.sh
 ```
+
+## Histórico
+
+| Versão | Data       | Modificação                    | Autor(es) |
+| ------ | ---------- | ------------------------------ | ----- |
+| 0.1    | 11/01/2023 | Atualização de CRUD de patrimônio  | Eduarda e Mateus  |
