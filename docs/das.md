@@ -15,9 +15,9 @@
 <a name="arquitetura"></a><h2>Representação da Arquitetura</h2>
 
 ### Diagrama de relações
-![Diagrama de relações](assets/img/arquitetura.png)
+![Diagrama de relações](assets/img/arquitetura.jpeg)
 
-<p style="text-align:justify">&emsp;&emsp;O diagrama representa a divisão da aplicação em microsserviços de usuário, clientes, demandas, setores e cargos.</p>
+<p style="text-align:justify">&emsp;&emsp;O diagrama representa a divisão da aplicação em microsserviços de usuário, clientes, demandas, setores, cargos e patrimônio.</p>
 
 
 ### Diagrama React/Microsserviços
@@ -65,7 +65,7 @@ Restrições:
 
 ### Modelagem de dados
 
-![Modelagem de dados](assets/img/diagrama_dados.png)
+![Modelagem de dados](assets/img/diagrama_dados.jpg)
 
 ### Diagrama de pacotes
 
@@ -89,3 +89,4 @@ Equipe de GCES do SiGed 2020-2 - Documento de arquitetura Disponível em: https:
 | 0.2    | 15/03/2022 | Adição do serviço de cargos | Murilo |
 | 1.0    | 15/03/2022 | Finalização da primeira versão e revisão | Murilo |
 | 2.0    | 18/03/2022 | Adição das referencias | Rafael |
+| 3.0    | 11/01/2023 | Atualização de diagrama de dados e de relações | Eduarda e Mateus |
