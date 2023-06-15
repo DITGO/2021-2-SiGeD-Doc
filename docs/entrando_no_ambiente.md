@@ -30,7 +30,9 @@ Por fim, a senha da aplicação para seu dispositivo será gerada, como mostra n
 ### Configuração do arquivo .env
 O seu arquivo .env deve se parecer com isso após completar os passos.
 
-![images](./assets/img/image_env.png)
+![env](https://github.com/2023-1-GCES-SIGeD/2021-2-SiGeD-Doc/assets/42985614/7471435d-fb4c-4dd7-a336-b9436733d25e)
+
+No campo "port", é possível utilizar dois tipos de **Porta Gmail SMTP**: _(i)_ porta 587, do tipo TLS e; _(ii)_ porta 465, do tipo SSL.
 
 Após a configuração do arquivo .env, suba o ambiente seguindo o <a href="https://github.com/DITGO/2021-2-SiGeD-Doc/blob/main/docs/subindo_projeto.md">tutorial</a> criado para auxílio.
 
